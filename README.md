@@ -1,3 +1,6 @@
+# DMM WEBCAMPコンテンツ【アプリケーションを完成させよう】
+DMM WEBCAMPの学習コンテンツアプリケーションを完成させようの1章〜8章の演習問題です。
+
 # README
 
 This README would normally document whatever steps are necessary to get the
